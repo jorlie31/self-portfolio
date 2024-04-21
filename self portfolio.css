@@ -1,0 +1,83 @@
+<!Doctype html>
+<html lang="en">
+	<head>
+		<title>Basic HTML Activity</title>
+		<link rel="stylesheet" href="style.css"> 
+	</head>
+	<body>
+		<h1>SELF PORTFOLIO</h1>
+		<img src="https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/425476458_847387147191424_8750186607060423393_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG5GCneDqAlRwlOaVFRzNiyBs7D1qSpp8IGzsPWpKmnwklrxyKuSlOn4XHaJqBuvjWySVy5p3JGt-Lj4lkNEjw0&_nc_ohc=LM_9dU48YqoAb5FhaFp&_nc_zt=23&_nc_ht=scontent.fmnl13-1.fna&oh=00_AfAtrTaxU_aFy3v83QWjSpiztmj9qFt1OTCIlTJSPDVpvw&oe=662A8D4C" alt="Your Image" class="round-image">
+		<h2><a href="https://web.facebook.com/jorlieann.perlada.98" target="_blank">Jorlie Ann T. Perlada</a></h2>
+
+        <a href="https://www.tiktok.com/yourpage" class="https://www.tiktok.com/@jollycow88">Tiktok</a>
+        <a href="https://www.instagram.com/yourpage" class="https://www.instagram.com/liannnnllyy/">Instagram</a>
+
+		
+		<h3 class="tabIn">Self Introduction:</h3>
+		<p class= Introducing myself I am Jorlie Ann T. Perlada, an IT student whose mantra echoes the timeless wisdom:"Time is Gold".
+            Born on November 08,2003,in Barangay Lapu-Lapu Santa,Cruz Marinduque, I embodies the essence of seizing every moment with purpose
+            and efficiency. As I delves into the world of Information Technology, I carries this motto as a guiding principle, recognizing the 
+            value of time in my pursuits. With each endeavor, I aims not only to excel but also to make the most of every opportunity,mindful 
+            of the precious resource that is time. My journey is marked by a steadfast commitment to maximizing my potential and making meaningful
+            contributions to the IT realm, all while honoring the adage that time,indeed,is Gold.</p>
+		<br/>
+		<h4 class="educ">Educational Background:</h4>
+		<hr/>
+		<table id="educational-background">
+        <thead>
+            <tr>
+                <th scope="col">Level</th>
+                <th scope="col">Name of School</th>
+                <th scope="col">Basic Education/Degree/Course</th>
+                <th scope="col">Period of Attendance</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Elementary</th>
+                <td>Gabaldon Elementary School</td>
+                <td>Primary Education</td>
+                <td>2009-2016</td>
+            </tr>
+            <tr>
+                <th scope="row">Secondary</th>
+                <td>Landy National High School</td>
+                <td>Secondary Education</td>
+                <td>2016-2022</td>
+            </tr>
+            <tr>
+                <th scope="row">College</th>
+                <td>Marinduque State College</td>
+                <td>Bachelor of Science in Information Technology</td>
+                <td>2022-2016</td>
+            </tr>
+        </tbody>
+    </table>
+	</table>
+
+		<h3 class="tabIn">Expertise:</h3>
+		<ul type="square">
+			<li>UI Designer</li>
+			<li>Data Science and Analytics</li>
+			<li>Software Development and Programming</li>
+			<li>Computer Graphics</li>
+			<li>Web Development and Design</li>
+		</ul>
+
+		<h3 class="tabIn">Background on Information Technology:</h3>
+		<p class="desc">My Journey in Information Technology began with my Parents.They told me to take the I.T course because it started from my Debut, my parents decided to bought me a laptop then my parents
+            told me to take the I.T course it's not just they bought me laptop but it is the demand course in our generations.
+        Though its not my first choice but I enjoyed being an I.T student because I learned a lot and I know this knowledge will be my armor when I started to hunt a job. Another, I can used my knowledge to 
+        built my own business.</p>
+
+		<h3 class="tabIn">Applications used in Studying:</h3>
+		<ol type="1">
+			<li>Visual Code Studio</li>
+			<li>Git-Hub</li>
+			<li>Notepad</li>
+			<li>Figma</li>
+			<li>Unity</li>
+		</ol>
+    <script src=""></script>
+	</body>
+</html>
